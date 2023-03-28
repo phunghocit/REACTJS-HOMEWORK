@@ -34,6 +34,4 @@ const Bai1 = (props) => {
 };
 export default Bai1;
 
-//SearchBox   tên kí hiệu components và class
 
-// uu tiên tách 3 component form , modal ,table
